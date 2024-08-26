@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #178de8;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.portada img{
+  height: 500px;
+}
+.titulo p{
+  font-size: 50px;
+  color: #dc1e1e;
+  font-family: 'forte';
+}
+.enlace p{
+  font-size: 30px;
+  color: #1edcc6;
+  font-family: 'arial black';
+}
+.titulo2 p{
+  font-size: 30px;
+  color: #87f816;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.subtitulo p{
+  font-size: 30px;
+  color: #2903e2;
+  font-family: Impact, Haettenschweiler, 'bauhaus 93', sans-serif;
+}
+.resumen p{
+  font-size: 30px;
+  color: #e22503;
+  font-family: Impact, Haettenschweiler, 'bauhaus 93', sans-serif;
+  margin: 50px;
+}
+.resumen img{
+  height: 300px;
+}
